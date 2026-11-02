@@ -1,0 +1,68 @@
+course_id,course,course_subject,credit
+MATH00001,Algebra 1,math,1.0
+MATH00002,Geometry,math,1.0
+MATH00003,Algebra 2,math,1.0
+MATH00004,Pre-Calculus,math,1.0
+MATH00005,Probability & Statistics,math,1.0
+MATH00006,Business Math,math,1.0
+MATH00007,Math Fundamentals,math,1.0
+MATH00008,Trigonometry,math,1.0
+ELA00001,English 1,ela,1.0
+ELA00002,English 2,ela,1.0
+ELA00003,English 3,ela,1.0
+ELA00004,English 4,ela,1.0
+ELA00005,English 1 Honors,ela,1.0
+ELA00006,English 2 Honors,ela,1.0
+ELA00007,English 3 Honors,ela,1.0
+ELA00008,English 4 Honors,ela,1.0
+ELA00009,AP Language,ela,1.0
+ELA00010,AP Literature,ela,1.0
+HIST00001,World History,hist,1.0
+HIST00002,American History,hist,1.0
+HIST00003,Political Science & Economics,hist,1.0
+HIST00004,Psychology,hist,1.0
+HIST00005,Sociology,hist,1.0
+HIST00006,World History Honors,hist,1.0
+HIST00007,American History Honors,hist,1.0
+HIST00008,AP Government,hist,1.0
+HIST00009,AP Psychology,hist,1.0
+SCI00001,Earth/Space Science,sci,1.0
+SCI00002,Biology,sci,1.0
+SCI00003,Chemistry,sci,1.0
+SCI00004,Physics,sci,1.0
+SCI00005,Environmental Science,sci,1.0
+SCI00006,Marine Science,sci,1.0
+SCI00007,Forensic Science,sci,1.0
+SCI00008,AP Biology,sci,1.0
+SCI00009,AP Environmental Science,sci,1.0
+HEAL00001,Health,heal,0.5
+PE00001,Team Sports,pe,0.5
+PE00002,Individual Sports,pe,0.5
+PE00003,Weight Lifting,pe,0.5
+ART00001,Visual Arts 1,art,1.0
+ART00002,Visual Arts 2,art,1.0
+ART00003,Digital Design 1,art,1.0
+ART00004,Digital Design 2,art,1.0
+ART00005,AP Visual Arts,art,1.0
+ART00006,Band,art,1.0
+ART00007,Music Theory,art,1.0
+ART00008,Chorus,art,1.0
+ART00009,AP Music Theory,art,1.0
+ART00010,Theatre 1,art,1.0
+ART00011,Theatre 2,art,1.0
+PFIN00001,Personal Finance,pfin,0.5
+ELEC00001,Freshman Seminar,elec,1.0
+ELEC00002,Sophomore Seminar,elec,1.0
+ELEC00003,Junior Seminar,elec,1.0
+ELEC00004,Senior Seminar,elec,1.0
+ELEC00005,Computer Programming 1,elec,1.0
+ELEC00006,Computer Programming 2,elec,1.0
+ELEC00007,AP Computer Science,elec,1.0
+ELEC00008,JROTC 1,elec,1.0
+ELEC00009,JROTC 2,elec,1.0
+ELEC00010,JROTC 3,elec,1.0
+ELEC00011,JROTC 4,elec,1.0
+ELEC00012,Spanish 1,elec,1.0
+ELEC00013,Spanish 2,elec,1.0
+ELEC00014,Spanish 3,elec,1.0
+ELEC00015,Spanish 4,elec,1.0
