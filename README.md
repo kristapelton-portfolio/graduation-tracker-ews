@@ -8,4 +8,4 @@ Explore the Graduation Tracker dashboard to examine student graduation readiness
 
 [View the Interactive Graduation Tracker Dashboard](https://public.tableau.com/views/PennsylvaniaGraduationTracker/Dashboard)
   
-![Graduation Tracker Dashboard](assets/graduation-tracker-tableau-dashboard.png)
+![Graduation Tracker Dashboard](graduation-tracker-tableau-dashboard.png)
